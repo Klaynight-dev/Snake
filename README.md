@@ -1,7 +1,3 @@
-Voici un exemple de fichier README qui pourrait répondre aux attentes de la SAÉ 1.01 :
-
----
-
 # Projet Snake - SAÉ 1.01 : Implémentation d'un besoin client
 
 ## Contexte
