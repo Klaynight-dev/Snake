@@ -20,7 +20,6 @@ Ce projet consiste en l’implémentation d’un jeu Snake en C, respectant les 
 
 ## Structure du dépôt
 - `version1.c` : Code source du jeu Snake, compilable et respectant les conventions de codage exigées.
-- `cahier_de_tests_version1.pdf` : Cahier de tests rédigé et rempli en format PDF (peut également être soumis sous format tableur).
 
 ## Spécifications techniques
 - **Langage** : C
@@ -39,12 +38,6 @@ Le fichier exécutable `snake_game` sera généré et pourra être lancé dans l
 ```bash
 ./snake_game
 ```
-
-## Spécifications des Tests
-Le cahier de tests fourni décrit chaque cas de test nécessaire pour valider le bon fonctionnement du jeu selon les spécifications techniques. Ce cahier contient :
-- Les conditions initiales de chaque test,
-- Les étapes d'exécution,
-- Les résultats attendus et obtenus.
 
 ## Exigences
 Le code source soumis respecte les conventions de codage définies pour le projet, notamment :
